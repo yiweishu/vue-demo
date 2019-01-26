@@ -1,8 +1,8 @@
-var app = new Vue({ 
-    el: '#app',
-    data: {
-        message: 'Hello Vue!'
-    }
+var app = new Vue({
+  el: '#app',
+  data: {
+    message: 'Hello Vue!'
+  }
 });
 
 var app2 = new Vue({
@@ -27,6 +27,13 @@ var app4 = new Vue({
       { text: '学习 Vue' },
       { text: '整个牛项目' }
     ]
+  }
+})
+
+var app6 = new Vue({
+  el: '#app-6',
+  data: {
+    message: 'Hello Vue!'
   }
 })
 
