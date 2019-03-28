@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22d746"],{f820:function(t,e,n){"use strict";n.r(e);var u=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"about"},[n("h1",[t._v("这里是凡谷IOT项目组。")])])}],c=n("2877"),l={},a=Object(c["a"])(l,u,s,!1,null,null,null);a.options.__file="About.vue";e["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d22d746.8b710a6d.js.map

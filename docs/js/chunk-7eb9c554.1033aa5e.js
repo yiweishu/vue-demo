@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-7eb9c554"],{"8bed":function(e,n,t){"use strict";var o=t("bdac"),c=t.n(o);c.a},bdac:function(e,n,t){},fd2d:function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("el-footer",[e._v("Fingu copyright")])},c=[],r={name:"Footer",components:{}},u=r,i=(t("8bed"),t("2877")),a=Object(i["a"])(u,o,c,!1,null,"d304e06e",null);a.options.__file="Footer.vue";n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-7eb9c554.1033aa5e.js.map
